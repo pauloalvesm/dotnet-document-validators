@@ -9,6 +9,13 @@
 
 Repository with console applications to validate document numbers.
 
+## 📗 Validators
+- [CPF](https://github.com/pauloalvesm/dotnet-document-validators/tree/master/src/DocumentValidators.CPF)
+- [CNPJ](https://github.com/pauloalvesm/dotnet-document-validators/tree/master/src/DocumentValidators.CNPJ)
+- [RG](https://github.com/pauloalvesm/dotnet-document-validators/tree/master/src/DocumentValidators.RG)
+- [CNH](https://github.com/pauloalvesm/dotnet-document-validators/tree/master/src/DocumentValidators.CNH)
+
+
 ## 🚀 Technologies and Tools
 
 This project was developed using the following technologies:
